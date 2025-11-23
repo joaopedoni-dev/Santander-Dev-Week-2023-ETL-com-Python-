@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Clara Mendes", 
+    "account": {
+      "id": 9999,
+      "number": "01.097587-1",
+      "agency": "1009",
+      "balance": 1000.0,
+      "limit": 500.0
+    },
+    "card": {
+      "id": 8888,
+      "number": "4722513401777777",
+      "limit": 100.0
+    },
+    "features": [],
+    "news": [] 
+  },
+  {
+    "id": 2,
+    "name": "Lucas Oliveira", 
+    "account": {
+      "id": 9999,
+      "number": "01.097587-1",
+      "agency": "1009",
+      "balance": 1000.0,
+      "limit": 500.0
+    },
+    "card": {
+      "id": 8888,
+      "number": "4722513401777777",
+      "limit": 100.0
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 3,
+    "name": "Beatriz Neves",
+    "account": {
+      "id": 9999,
+      "number": "01.097587-1",
+      "agency": "1009",
+      "balance": 1000.0,
+      "limit": 500.0
+    },
+    "card": {
+      "id": 8888,
+      "number": "4722513401777777",
+      "limit": 100.0
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 4,
+    "name": "Thiago Costa",
+    "account": {
+      "id": 9999,
+      "number": "01.097587-1",
+      "agency": "1009",
+      "balance": 1000.0,
+      "limit": 500.0
+    },
+    "card": {
+      "id": 8888,
+      "number": "4722513401777777",
+      "limit": 100.0
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 5,
+    "name": "Juliana Melo",
+    "account": {
+      "id": 9999,
+      "number": "01.097587-1",
+      "agency": "1009",
+      "balance": 1000.0,
+      "limit": 500.0
+    },
+    "card": {
+      "id": 8888,
+      "number": "4722513401777777",
+      "limit": 100.0
+    },
+    "features": [],
+    "news": []
+  }
+]

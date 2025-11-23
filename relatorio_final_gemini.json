@@ -1,0 +1,117 @@
+[
+    {
+        "id": 1,
+        "name": "Clara Mendes",
+        "account": {
+            "id": 9999,
+            "number": "01.097587-1",
+            "agency": "1009",
+            "balance": 1000.0,
+            "limit": 500.0
+        },
+        "card": {
+            "id": 8888,
+            "number": "4722513401777777",
+            "limit": 100.0
+        },
+        "features": [],
+        "news": [
+            {
+                "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+                "description": "Clara, investir é crucial para seu futuro e sonhos. Faça seu dinheiro trabalhar por você. Comece hoje!"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Lucas Oliveira",
+        "account": {
+            "id": 9999,
+            "number": "01.097587-1",
+            "agency": "1009",
+            "balance": 1000.0,
+            "limit": 500.0
+        },
+        "card": {
+            "id": 8888,
+            "number": "4722513401777777",
+            "limit": 100.0
+        },
+        "features": [],
+        "news": [
+            {
+                "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+                "description": "Lucas, invista agora para um futuro mais tranquilo e próspero. Faça seu dinheiro trabalhar por você!"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Beatriz Neves",
+        "account": {
+            "id": 9999,
+            "number": "01.097587-1",
+            "agency": "1009",
+            "balance": 1000.0,
+            "limit": 500.0
+        },
+        "card": {
+            "id": 8888,
+            "number": "4722513401777777",
+            "limit": 100.0
+        },
+        "features": [],
+        "news": [
+            {
+                "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+                "description": "Beatriz, seu futuro merece! Invista hoje e construa a vida que você sonha. ✨"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Thiago Costa",
+        "account": {
+            "id": 9999,
+            "number": "01.097587-1",
+            "agency": "1009",
+            "balance": 1000.0,
+            "limit": 500.0
+        },
+        "card": {
+            "id": 8888,
+            "number": "4722513401777777",
+            "limit": 100.0
+        },
+        "features": [],
+        "news": [
+            {
+                "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+                "description": "Thiago, seus sonhos merecem mais. Invista e transforme planos em realidade!"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Juliana Melo",
+        "account": {
+            "id": 9999,
+            "number": "01.097587-1",
+            "agency": "1009",
+            "balance": 1000.0,
+            "limit": 500.0
+        },
+        "card": {
+            "id": 8888,
+            "number": "4722513401777777",
+            "limit": 100.0
+        },
+        "features": [],
+        "news": [
+            {
+                "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+                "description": "Juliana, invista no seu futuro! Faça seu dinheiro crescer e realize seus sonhos. Comece hoje!"
+            }
+        ]
+    }
+]
